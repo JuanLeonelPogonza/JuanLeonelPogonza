@@ -1,6 +1,9 @@
 # 💫 About Me:
 ¡Hola! Soy Juan Leonel Pogonza, un Trainee Front End Developer apasionado por la tecnología y el desarrollo web. Me encanta trabajar en equipo y aprender cosas nuevas cada día.<br><br>Mi experiencia en desarrollo web incluye el diseño y la implementación de sitios web utilizando tecnologías como HTML, CSS y JavaScript. También tengo conocimientos en frameworks como React, así como en preprocesadores CSS como Sass.<br><br>Además, soy un apasionado del diseño y la usabilidad web, lo que me permite crear interfaces de usuario atractivas y fáciles de usar para los usuarios.<br><br>Mi objetivo como desarrollador es seguir aprendiendo y mejorando mis habilidades técnicas y personales para poder crear soluciones web innovadoras y efectivas que mejoren la experiencia del usuario y satisfagan las necesidades de los clientes.<br><br>Estoy emocionado por las oportunidades que me esperan como Junior Front End Developer, y estoy dispuesto a trabajar duro para alcanzar mis objetivos y seguir creciendo como profesional en el campo del desarrollo web.
-
+<p align="left">
+<a href="https://linkedin.com/in/juan leonel pogonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan leonel pogonza" height="30" width="40" /></a>
+<a href="https://discord.gg/Juan Leonel Pogonza FT-36b#0169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juan Leonel Pogonza FT-36b#0169" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Juan Leonel Pogonza FT-36b#0169) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Juan Leonel Pogonza) 
